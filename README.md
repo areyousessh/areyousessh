@@ -1,6 +1,6 @@
 ## Eai! Eu sou o Gustavo Alves, mas me chama de Sessh!!!
 
-# Sou um desenvolvedor fullstack e atualmente atuo com:
+### Sou um desenvolvedor fullstack e atualmente atuo com:
 
 - ReactJs / Rect Native
 - NodeJs
