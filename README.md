@@ -10,6 +10,8 @@
 - Typescript
 - Postgres
 - Firebase
+
+Nas horas vagas gosto de jogar um futebol com meu filho, jogar video game, estudar japonês e espanhol, experiências com arduino e cozinhar
   
 <div> 
   <a href="https://instagram.com/sshwashere" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
